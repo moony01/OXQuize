@@ -2,7 +2,6 @@
 
 > Console-based **true/false (OX) quiz game** built in Java as a learning project.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Java](https://img.shields.io/badge/Java-orange?logo=java)](https://www.java.com/)
 
 ---
@@ -29,10 +28,6 @@ cd OXQuize
 javac OXQ/*.java
 java OXQ.Main
 ```
-
-## License
-
-[MIT License](LICENSE) © 2024–2026 [moony01](https://github.com/moony01)
 
 ## Contact
 
